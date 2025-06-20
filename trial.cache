@@ -10,6 +10,7 @@ sub_info  0B  1.844G  2025-06-21 22:41:13+08:00  (剩余 1.844G 17:32:41.907816)
 sub_url  https://network.ayucloud.nl/link/yGM9eRi4oWhdDtGq?clash=1
 time  2025-06-20 22:41:15.074275+08:00
 type  sspanel
+更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /link/yGM9eRi4oWhdDtGq?clash=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f679c9637c0>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [qlgq.top]
 
