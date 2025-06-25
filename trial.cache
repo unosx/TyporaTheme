@@ -7,12 +7,12 @@ email  ziygcee192@linshiyou.com
 last_checkin  2025-06-24 15:13:48.228681+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.093G  2025-06-25 15:13:47+08:00  (剩余 1.093G 0:22:21.867412)
+sub_info  0B  1.093G  2025-06-25 15:13:47+08:00  (剩余 1.093G 0:00:09.891709)
 sub_url  https://network.ayucloud.nl/link/3LyHQgSFolmvwsty?clash=1
 time  2025-06-24 15:13:49.039425+08:00
 type  sspanel
 尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-更新订阅链接/续费续签失败  注册失败(ksezpxjx427@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbddc8f3e80>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
+更新订阅链接/续费续签失败  注册失败(uwqawiv872@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f9ab9b5a8c0>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [qlgq.top]
 
