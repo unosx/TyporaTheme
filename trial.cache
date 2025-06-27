@@ -7,10 +7,11 @@ email  rggimyve889@guerrillamail.net
 last_checkin  2025-06-27 02:16:25.407991+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.13G  2025-06-28 02:16:25+08:00  (剩余 1.13G 9:30:32.242584)
+sub_info  0B  1.13G  2025-06-28 02:16:25+08:00  (剩余 1.13G 9:05:37.784042)
 sub_url  https://network.ayucloud.nl/link/dTdjke10W86rF2TF?clash=1
 time  2025-06-27 02:16:26.268881+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: 'NoneType' object is not iterable
 
 [qlgq.top]
 
