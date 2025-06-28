@@ -7,11 +7,11 @@ email  dtqutlyx678@sharklasers.com
 last_checkin  2025-06-28 13:10:43.714692+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.214G  2025-06-29 13:10:43+08:00  (剩余 1.214G 9:00:58.166557)
+sub_info  0B  1.214G  2025-06-29 13:10:43+08:00  (剩余 1.214G 8:32:32.242254)
 sub_url  https://network.ayucloud.nl/link/OtvSL4pWVJVjQWUL?clash=1
 time  2025-06-28 13:10:44.684942+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 [qlgq.top]
 
