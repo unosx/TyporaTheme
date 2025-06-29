@@ -7,11 +7,11 @@ email  ulochsaq880@huiplay.com
 last_checkin  2025-06-29 21:43:56.020850+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.088G  2025-06-30 21:43:55+08:00  (剩余 1.088G 18:36:42.278893)
+sub_info  0B  1.088G  2025-06-30 21:43:55+08:00  (剩余 1.088G 18:12:14.080821)
 sub_url  https://network.ayucloud.nl/link/B1upSf3a6HaEXX57?clash=1
 time  2025-06-29 21:43:56.867148+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
