@@ -7,13 +7,13 @@ email  rjgmrjjq384@grr.la
 last_checkin  2025-07-08 05:37:02.540131+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  0B  2025-07-09 05:37:02+08:00  (剩余 0B -2 days, 12:21:45.560668)
+sub_info  0B  0B  2025-07-09 05:37:02+08:00  (剩余 0B -2 days, 11:53:40.289507)
 sub_url  https://network.ayucloud.nl/link/uFU3Trx7MJtAkZiP?clash=1
 time  2025-07-08 05:37:03.505913+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
 尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-更新订阅链接/续费续签失败  注册失败(ntqhxbb566@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe00ff20d60>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
+更新订阅链接/续费续签失败  注册失败(rgpfgpp181@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f68bfeda260>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [qlgq.top]
 
