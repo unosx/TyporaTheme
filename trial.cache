@@ -12,7 +12,7 @@ sub_url  https://network.ayucloud.nl/link/Ww4YNUOM1pCEr2pV?clash=1
 time  2025-07-16 05:09:54.267213+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(rlypqqvpw284@gmail.com): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+更新旧订阅失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 [qlgq.top]
 
