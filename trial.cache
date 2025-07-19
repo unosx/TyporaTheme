@@ -7,12 +7,12 @@ email  sldskebn260@questtechsystems.com
 last_checkin  2025-07-19 02:13:55.324441+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  0B  2025-07-19 13:49:47+08:00  (剩余 0B -1 day, 23:32:43.270147)
+sub_info  0B  0B  2025-07-19 13:49:47+08:00  (剩余 0B -1 day, 23:01:22.241237)
 sub_url  https://network.ayucloud.nl/link/0CfFYiEgWkiaCkJk?clash=1
 time  2025-07-18 13:49:49.250178+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  获取邮箱验证码超时(aitxclm836@snapmail.cc)
+更新订阅链接/续费续签失败  注册失败(cjclbbm409@gmail.com): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 [qlgq.top]
 
