@@ -3,23 +3,20 @@ auth_path  user
 auto_invite  F
 banned_domains  smartnator.com  lista.cc  psnator.com  snapmail.cc  femailtor.com  xxxhi.cc
 buy  pass
-email  bobaszhla782@tmpnator.live
-last_checkin  2025-08-04 04:11:14.163759+08:00
+email  cmfbnzsys721@linshiyou.com
+last_checkin  2025-08-05 05:41:00.076890+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  0B  2025-08-05 04:11:13+08:00  (剩余 0B -1 day, 22:58:45.654418)
-sub_url  https://network.ayucloud.nl/link/XVMOiXiYpjKTNAic?clash=1
-time  2025-08-04 04:11:15.091531+08:00
+sub_info  0B  1.103G  2025-08-06 05:40:59+08:00  (剩余 1.103G 23:59:53.782578)
+sub_url  https://network.ayucloud.nl/link/rviwS6oioyH0HtMT?clash=1
+time  2025-08-05 05:41:00.948759+08:00
 type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新订阅链接/续费续签失败  注册失败(ekpnzflsg309@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6307526f20>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [qlgq.top]
 
 [cyanmori.com]
 name  抱歉，站点已暂停
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(covatqozc45@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+更新订阅链接/续费续签失败  注册失败(oyikwmgg44@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
 
 [vipxgyun.com]
