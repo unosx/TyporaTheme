@@ -1185,7 +1185,6 @@ rules:
 - DOMAIN-SUFFIX,ucweb.com,DIRECT
 - DOMAIN-SUFFIX,ykimg.com,DIRECT
 - DOMAIN-SUFFIX,youku.com,DIRECT
-- DOMAIN-SUFFIX,qwen.ai,DIRECT
 - DOMAIN-SUFFIX,baidu.com,DIRECT
 - DOMAIN-SUFFIX,baidubcr.com,DIRECT
 - DOMAIN-SUFFIX,baidustatic.com,DIRECT
