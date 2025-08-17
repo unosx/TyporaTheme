@@ -7,7 +7,7 @@ email  ehvowokm22@guerrillamail.net
 last_checkin  2025-08-17 23:09:26.075945+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.177G  2025-08-18 23:09:25+08:00  (剩余 1.177G 20:23:25.442847)
+sub_info  0B  1.177G  2025-08-18 23:09:25+08:00  (剩余 1.177G 20:02:01.565014)
 sub_url  https://network.ayucloud.nl/link/QzhQ6Bwfxg1izp2g?clash=1
 time  2025-08-17 23:09:26.993119+08:00
 type  sspanel
@@ -18,11 +18,11 @@ api_host  ww38.qlgq.top
 auth_path  user
 name  qlgq.top
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(xrlqzwz973@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f846ec842e0>: Failed to resolve 'ww38.qlgq.top' ([Errno -3] Temporary failure in name resolution)"))
+更新订阅链接/续费续签失败  注册失败(diroibp895@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f73efc5dff0>: Failed to resolve 'ww38.qlgq.top' ([Errno -3] Temporary failure in name resolution)"))
 
 [cyanmori.com]
 name  抱歉，站点已暂停
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(ahzpopl773@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+更新订阅链接/续费续签失败  注册失败(cpstpvk643@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
 
 [vipxgyun.com]
