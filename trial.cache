@@ -3,27 +3,25 @@ auth_path  user
 auto_invite  F
 banned_domains  smartnator.com  lista.cc  psnator.com  snapmail.cc  femailtor.com  xxxhi.cc  25ua.com  lyx13.xyz  lplso.tmmad.com  huiplay.com  x866.cc  vapeuccino.com  mail.wvwvw.tech  tomystudio.com  jkb.tmmad.com  jkd.tmmad.com  wwobs.com  51788.top  mxl001.win  deomail.top  965.tmmad.com  mail.shouyou789.com  ipiso.tmmad.com  wfes.site  bccto.cc  adtgng.tmmad.com  mydefipet.live  xdanae.com
 buy  pass
-email  cjxodvnk879@guerrillamail.biz
-last_checkin  2025-10-28 01:08:59.352468+08:00
+email  lvnbbivok34@sharklasers.com
+last_checkin  2025-10-28 23:12:02.245779+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  0B  0B  2025-10-28 18:43:10+08:00  (剩余 0B -1 day, 20:00:33.882178)
-sub_url  https://network.ayucloud.nl/link/wwtMNEP1J7T13szJ?clash=1
-time  2025-10-27 18:43:12.224315+08:00
+sub_info  0B  1.094G  2025-10-29 23:12:01+08:00  (剩余 1.094G 23:59:48.288654)
+sub_url  https://network.ayucloud.nl/link/TYsnGtNk93wTVQ0D?clash=1
+time  2025-10-28 23:12:03.213775+08:00
 type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(szazaxux137@gmail.com): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 auth_path  user
 name  qlgq.top
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(werzenb395@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f86d4807280>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(gpdxnjbd516@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fd301b27160>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 name  抱歉，站点已暂停
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(chcmvert644@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+更新订阅链接/续费续签失败  注册失败(ebwljtgil572@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
 
 [vipxgyun.com]
