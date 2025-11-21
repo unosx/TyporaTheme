@@ -7,21 +7,22 @@ email  equmupf224@tmpnator.live
 last_checkin  2025-11-21 00:16:08.448191+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  233.5M  1.153G  2025-11-22 00:16:07+08:00  (剩余 947.5M 0:42:41.465676)
+sub_info  233.5M  1.153G  2025-11-22 00:16:07+08:00  (剩余 947.5M 0:03:44.351476)
 sub_url  https://network.ayucloud.nl/link/rCEJJF1Mm9HswmYp?clash=1
 time  2025-11-21 00:16:12.132517+08:00
 type  sspanel
+更新订阅链接/续费续签失败  注册失败(aeywnmshu638@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 auth_path  user
 name  qlgq.top
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(arsdxdvxq501@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f82242df3d0>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(ptqbsikmk589@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f82d81db640>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 name  抱歉，站点已暂停
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(chtaero334@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+更新订阅链接/续费续签失败  注册失败(spoiwua387@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
 
 [vipxgyun.com]
