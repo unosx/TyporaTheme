@@ -20,14 +20,14 @@ api_host  ww38.qlgq.top
 auth_path  user
 name  qlgq.top
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(pdaimgr645@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.qlgq.top', port=443) at 0x7f97c3c3b460>, 'Connection to ww38.qlgq.top timed out. (connect timeout=30)'))
+更新订阅链接/续费续签失败  注册失败(dtzescg37@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.qlgq.top', port=443) at 0x7f8895fbf730>, 'Connection to ww38.qlgq.top timed out. (connect timeout=30)'))
 
 [cyanmori.com]
 name  抱歉，站点已暂停
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(ghxqtcwc837@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found '<html>\n<head><title>404 Not Found</title></head>\n<body>\n<center><h1>404 Not Found</h1></center>\n<hr><center>nginx</center>\n</body>\n</html>')
+更新订阅链接/续费续签失败  注册失败(vxamsoat230@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found '<html>\n<head><title>404 Not Found</title></head>\n<body>\n<center><h1>404 Not Found</h1></center>\n<hr><center>nginx</center>\n</body>\n</html>')
 
 [vipxgyun.com]
 error  'NoneType' object has no attribute 'text'
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(nifbnnqxx846@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (200 OK '')
+更新订阅链接/续费续签失败  注册失败(fzzmvwcq9@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (200 OK '')
